@@ -3,4 +3,4 @@ This is a programme that written use c++. This compiled .exe file opening regedi
 
 1.git clone https://github.com/AkilaBandara-git/Open-regedit.exe.git
 
-![]()
+![Screenshot](preview.png)
